@@ -1,0 +1,6 @@
+module Pods_Audita {
+  umbrella header "Pods-Audita-umbrella.h"
+
+  export *
+  module * { export * }
+}

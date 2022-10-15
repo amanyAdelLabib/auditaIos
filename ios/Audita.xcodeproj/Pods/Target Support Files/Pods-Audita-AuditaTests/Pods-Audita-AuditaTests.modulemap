@@ -1,0 +1,6 @@
+module Pods_Audita_AuditaTests {
+  umbrella header "Pods-Audita-AuditaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
